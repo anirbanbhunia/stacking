@@ -1,0 +1,17 @@
+Find apis  done
+Make 3 components active
+Timeframe input tool
+Refresh timer
+
+TODO : timer data reload implementation
+
+Nav : Timeframe, refresh timer, checkbox for 3 components
+
+
+Data constant : 2005 - 2023 - every day : done
+
+
+renderData = data -> (startDate, endDate) : done
+
+
+useEffect : [timer] -> ( if endDate == today : fetch()) else continue; : done
